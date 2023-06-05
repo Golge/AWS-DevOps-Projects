@@ -65,6 +65,7 @@ Resources:
           yum update -y
           yum install python3-pip python3-devel gcc -y
           #pip3 install flask - this code does not work!!
+          #though i used below command
           pip install flask
           python3 app.py
 
